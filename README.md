@@ -62,8 +62,6 @@
 
 <img src="https://raw.githubusercontent.com/arnavmurdande/arnavmurdande/output/github-contribution-grid-snake.svg" />
 
-⚠️ You must enable GitHub Action for snake:
-https://github.com/Platane/snk
 
 ---
 
