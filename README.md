@@ -60,10 +60,7 @@
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <img src="https://raw.githubusercontent.com/arnavmurdande/arnavmurdande/output/github-contribution-grid-snake.svg" />
-
 
 ⚠️ You must enable GitHub Action for snake:
 https://github.com/Platane/snk
@@ -74,7 +71,7 @@ https://github.com/Platane/snk
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arnavmurdande&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavmurdande&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
