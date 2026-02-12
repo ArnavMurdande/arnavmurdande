@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Arnav%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:000000&height=220&section=header&text=ARNAV%20MURDANDE&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Builder;Open+Source+Enthusiast;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Cyberpunk+AI+Engineer;Full+Stack+Developer;Machine+Learning+Architect;Building+the+Future;Welcome+to+the+Matrix+⚡" />
 
 </div>
 
@@ -20,6 +20,8 @@
 
 ## 🛠 Tech Stack
 
+<div align="center">
+  
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
@@ -38,6 +40,18 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+</div>
+
+---
+
+## 🎵 NOW PLAYING
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/▶_Power-00ffff?style=for-the-badge&logo=spotify&logoColor=black)](https://music.youtube.com/watch?v=k8JflBNovLE)
+
+</div>
 
 ---
 
@@ -76,15 +90,18 @@
 ---
 
 ## 🌐 Connect With Me
-
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arnav-murdande/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://arnav-murdande-portfolio-website.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:arnavmurdande@gmail.com)
 
+</div>
+
 ---
 
 ## 👀 Visitors
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=arnavmurdande&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 ---
@@ -95,5 +112,5 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ffff,100:ff00ff&height=150&section=footer"/>
 
