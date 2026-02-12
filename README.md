@@ -71,10 +71,9 @@ https://github.com/Platane/snk
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavmurdande&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnavmurdande&theme=tokyonight" />
 
 </div>
-
 
 ---
 
